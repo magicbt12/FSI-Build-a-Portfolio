@@ -5,3 +5,6 @@ div { font-family: Verdana, Geneva, Tahoma, sans-serif;}
 h1 { color: rgb(0, 0, 0); }
 h1 {text-align: center;}
 h2 {text-align: center;}
+h2 {background-color: chartreuse;}
+img {border-radius: 40px;}
+h3 class="Contact Me" {text-align: center;}
