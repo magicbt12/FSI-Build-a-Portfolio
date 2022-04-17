@@ -1,4 +1,4 @@
-body { background-color: bisque; }
+body { background-color: rgba(245, 222, 179, 0.473);}
 
 div { color: rgb(37, 46, 167); }
 div { font-family: Verdana, Geneva, Tahoma, sans-serif;}
@@ -6,7 +6,10 @@ h1 { color: rgb(0, 0, 0); }
 h1 {text-align: center;}
 h2 {text-align: center;}
 h2 {background-color: chartreuse;}
-img {border-radius: 40px;}
+.data {border-radius: 40px;}
+.tree {border-radius: 100px;}
+.tree {float: right;}
+.airport {border-radius: 100px;}
 .contact {text-align: center;}
 .phone {text-align: center;}
 .email {text-align: center;}
