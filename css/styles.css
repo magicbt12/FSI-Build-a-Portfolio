@@ -1,8 +1,11 @@
 body { background-image: url("/images/coding-portfolio.jpeg"); background-color: rgb(20, 37, 20); }
-div { color: rgb(255, 255, 255); }
+
+div { color: rgb(255, 255, 255);}
 div { font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.div2 {padding-left: 10px;}
 h1 {text-align: center;}
 h2 {text-align: center;}
+h3 {color: rgb(228, 195, 51); padding-top: 15px;}
 .data {border-radius: 40px;}
 .tree {border-radius: 100px;}
 .tree {float: right; }
