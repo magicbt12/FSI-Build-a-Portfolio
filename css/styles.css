@@ -5,11 +5,12 @@ div { font-family: Verdana, Geneva, Tahoma, sans-serif;}
 .div2 {padding-left: 10px;}
 h1 {text-align: center;}
 h2 {text-align: center;}
-h3 {color: rgb(228, 195, 51); padding-top: 15px;}
+h3 {color: rgb(228, 195, 51);}
 .data {border-radius: 40px;}
 .tree {border-radius: 100px;}
 .tree {float: right; }
 .airport {border-radius: 100px;}
+.airport {float:left}
 .contact {text-align: center;}
 .phone {text-align: center;}
 .email {text-align: center;}
